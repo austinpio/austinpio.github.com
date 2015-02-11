@@ -14,7 +14,6 @@ tagline: Random Thoughts
       github : austinpio
       twitter : austinpioj
 
-The theme should reference these variables whenever needed.
     
 ## Blog Posts
 
